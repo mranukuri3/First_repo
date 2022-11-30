@@ -1,2 +1,2 @@
 # First_repo
-This has been recretaed from server end.
+This has been recreated from server end.
